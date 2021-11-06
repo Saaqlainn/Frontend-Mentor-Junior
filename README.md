@@ -4,7 +4,7 @@ Hi!✋ This Is The Solutions To The Order Summary Card Solution On Frontend Ment
 
 ## 🛰Live URL
 
- - [ Order Summary Card Component](https://saaqlainn.github.io/FrontEnd-Tasks/Order%20summary%20Card)
+ - [ Order Summary Card Component](https://saaqlainn.github.io/Frontend-Mentor-junior/Order%20summary%20Card)
 
 
 # My Process
