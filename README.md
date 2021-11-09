@@ -1,6 +1,6 @@
 # Frontend Mentor Junior - Testimonial Grid.
 
-Hi!✋ This Is The Solutions To The Order Summary Card Solution On Frontend Mentor.
+### Hi!✋ This Is The Solutions To The Testimonial Grid Solution On Frontend Mentor.
 
 ## 🛰Live URL
 
@@ -15,7 +15,7 @@ Hi!✋ This Is The Solutions To The Order Summary Card Solution On Frontend Ment
 
 - Css Custom Properties
 
-- Flexbox
+- Grid
 
 
 ## Author
