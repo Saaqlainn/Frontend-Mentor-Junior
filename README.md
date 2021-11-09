@@ -1,4 +1,4 @@
-# Frontend Mentor - Order Summary Card Solution.
+# Frontend Mentor Junior - Testimonial Grid.
 
 Hi!✋ This Is The Solutions To The Order Summary Card Solution On Frontend Mentor.
 
